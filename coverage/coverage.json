@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "72.16%",
+    "missed": 1374,
+    "total": 4935
+  },
+  "generated_at": "2026-08-05T21:13:36Z",
+  "lines": {
+    "coverage": "76.28%",
+    "missed": 9647,
+    "total": 40678
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "75.39%",
+    "missed": 14002,
+    "total": 56895
+  },
+  "run_url": "https://github.com/indielab/AgentENV/actions/runs/31045763835"
+}
