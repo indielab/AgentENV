@@ -5,21 +5,21 @@
     "total": 0
   },
   "functions": {
-    "coverage": "72.16%",
-    "missed": 1374,
-    "total": 4935
+    "coverage": "72.15%",
+    "missed": 1375,
+    "total": 4937
   },
-  "generated_at": "2026-08-05T21:13:36Z",
+  "generated_at": "2026-08-06T15:12:53Z",
   "lines": {
-    "coverage": "76.28%",
-    "missed": 9647,
-    "total": 40678
+    "coverage": "76.25%",
+    "missed": 9671,
+    "total": 40720
   },
   "package": "workspace",
   "regions": {
-    "coverage": "75.39%",
-    "missed": 14002,
-    "total": 56895
+    "coverage": "75.36%",
+    "missed": 14025,
+    "total": 56931
   },
-  "run_url": "https://github.com/indielab/AgentENV/actions/runs/31045763835"
+  "run_url": "https://github.com/indielab/AgentENV/actions/runs/31112621179"
 }
